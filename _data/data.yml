@@ -88,33 +88,42 @@ experiences:
         - Designed & Developed REST API
         - Integrate API with UI using React
       <br>
-      <b>Techologies</b>: Nodejs,Strapi,Postgresql,React
+      <span class="label label-default">Node JS</span>
+      <span class="label label-primary">Strapi</span>
+      <span class="label label-success">Postgresql</span>
+      <span class="label label-info">React</span>
 
       Mobile app, who!cares
         - Designed & Developed REST API using Node JS
         - Configure and modifiy Openfire XMPP server for chat feature
       <br>
-      <b>Techologies</b>: Nodejs,Strapi,Postgresql
+      <span class="label label-default">Node JS</span>
+      <span class="label label-primary">Strapi</span>
+      <span class="label label-success">Postgresql</span>
 
       CRM solution Buzzz – Alert. Call. Convert
         - Developed REST API that meet bussiness requiments
         - Refactored Legacy Code to improve code quality
         - Added Unit & Integration tests        
-      
-      <br>
-      <b>Techologies</b>: Nodejs,Express,Sequelize,Postgresql,React
+      <span class="label label-default">Node JS</span>
+      <span class="label label-primary">Strapi</span>
+      <span class="label label-success">Postgresql</span>
+      <span class="label label-info">React</span>
+      <span class="label label-primary">Express</span>
+      <span class="label label-success">Sequelize</span>
 
       Ithra Mobile App
         - Created Rest API to be consumed by mobile App
       <br>
-      <b>Techologies</b>: PHP ,Mysql, Concrete5
+      <span class="label label-default">PHP</span>
+      <span class="label label-primary">MYSQL</span>
+      <span class="label label-success">Concrete 5</span>
       
       Others
-       - Worked on enhancements and bug fixes for multiple client projects.  
-      <br>
-      <b>Techologies</b>: PHP ,Mysql, Concrete5
-
-      
+        - Worked on enhancements and bug fixes for multiple client projects.  
+      <span class="label label-default">PHP</span>
+      <span class="label label-primary">MYSQL</span>
+      <span class="label label-success">Concrete 5</span>
 
   - role: Junior Backend Developer
     time: Sept 2017 - Nov 2018
@@ -124,6 +133,12 @@ experiences:
         - Worked on backend solution for matrimony in Node JS
         - Worked on client project in PHP,Mysql  
         - Deploying projects to live and maintain servers.
+         
+        <span class="label label-default">Node JS</span>
+         <span class="label label-default">PHP</span>
+         <span class="label label-primary">MYSQL</span>
+         <span class="label label-primary">Express</span>
+
   - role: Internship
     time: Dec 2016 - May 2017
     company: 3D Systems Inc., Goa
@@ -135,6 +150,11 @@ experiences:
         - Bug fixes & code refactor
       
       I also wrote automated test cases for 3D modelling software using python.
+      <br>
+      <span class="label label-default">PHP</span>
+      <span class="label label-primary">MYSQL</span>
+      <span class="label label-default">Angular</span>
+      <span class="label label-primary">Python</span>
       
 projects:
   title: Projects
@@ -217,4 +237,4 @@ skills:
       level: 62%  
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  
