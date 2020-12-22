@@ -212,6 +212,9 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
+    - name: REST API development
+      level: 85% 
+    
     - name: Node JS & Javascript
       level: 76%
     
@@ -232,9 +235,7 @@ skills:
 
     - name: Git
       level: 70%
-
-    - name: Agile Methodologies & Clean Code
-      level: 62%  
+ 
 
 footer: >
   

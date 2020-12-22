@@ -23,11 +23,17 @@
     {% include education.html %}
   {% endif %}
 
+  {% include other_skills.html %}
+  {% include soft_skills.html %}
   {% include language.html %}
   {% include interests.html %}
 
-  {% if sidebar.about %}
-    {% include about.html %}
-  {% endif %}
-
+  
+  <div class="interests-container container-block">
+    <h2 class="container-block-title">References</h2>
+        <ul class="list-unstyled interests-list">
+            <li>Available upon request</li>
+        </ul>
+    </div>
+    
 </div><!--//sidebar-wrapper-->
