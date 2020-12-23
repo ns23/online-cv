@@ -12,8 +12,8 @@ sidebar:
   avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: niteshsawant023@gmail.com
-  phone: +91 8805 790 690
+  email: niteshsawant23@outlook.com
+  phone: +91 9405 223 367
   website: ns23.dev #do not add http://
   linkedin: nitesh-sawant-2b252590
   github: ns23
@@ -35,6 +35,9 @@ sidebar:
     - idiom: Marathi
       level: Native
 
+    - idiom: Hindi
+      level: Native  
+
   interests:
     - item: Trekking
       link:
@@ -48,9 +51,9 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    A self-organising and focused backend developer with a strong technical experience who has the ability to work in an environment under minimum supervision. Ability to take key roles in an Agile software development lifecycle to ensure that business requirements and objectives are achieved. Self-initiating, team player, results oriented, and possess the ability to provide solutions to problems clearly and efficiently.
+     A self-organizing and focused backend developer with strong technical experience. Can work in an environment under minimum supervision. Ability to take key roles in an Agile software development lifecycle to ensure that business requirements and objectives are achieved. Self-initiating, a team player, results-oriented, and possess the ability to provide solutions to problems clearly and efficiently.
 
-    Looking forward to make a difference as a software engineer to a company that offers genuine career progression.
+    Looking forward to making a difference as a software engineer to a company that offers genuine career progression.
 education:
   - degree: Master of Computer Applications
     university: Goa University
@@ -81,85 +84,82 @@ experiences:
     time: Nov 2018 - Present
     company: TenTwenty Digital,Goa
     details: |
-      Worked on multiple projects to create maintanable and scalabale backend solution by 
-      following SOLID practices and TDD. Interacted with clients to understand requirements and provide tech support.
+      Worked on multiple projects to create maintainable and scalable backend solutions by following SOLID practices and TDD. Interacted with clients to understand requirements and provide tech support.
 
       Forbes Middle East Website
-        - Designed & Developed REST API
-        - Integrate API with UI using React
+        - Designed & Developed REST APIs
+        - Integrate APIs with UI using React
       <br>
       <span class="label label-default">Node JS</span>
       <span class="label label-primary">Strapi</span>
-      <span class="label label-success">Postgresql</span>
+      <span class="label label-success">PostgreSQL</span>
       <span class="label label-info">React</span>
 
       Mobile app, who!cares
-        - Designed & Developed REST API using Node JS
+        - Designed & Developed REST APIs using Node JS
         - Configure and modifiy Openfire XMPP server for chat feature
       <br>
       <span class="label label-default">Node JS</span>
       <span class="label label-primary">Strapi</span>
-      <span class="label label-success">Postgresql</span>
+      <span class="label label-success">PostgreSQL</span>
 
-      CRM solution Buzzz – Alert. Call. Convert
-        - Developed REST API that meet bussiness requiments
+      CRM solution, Buzzz – Alert. Call. Convert
+        - Developed REST APIs that meet business requirements
         - Refactored Legacy Code to improve code quality
         - Added Unit & Integration tests        
       <span class="label label-default">Node JS</span>
-      <span class="label label-primary">Strapi</span>
-      <span class="label label-success">Postgresql</span>
-      <span class="label label-info">React</span>
+      <span class="label label-success">PostgreSQL</span>
       <span class="label label-primary">Express</span>
       <span class="label label-success">Sequelize</span>
 
       Ithra Mobile App
-        - Created Rest API to be consumed by mobile App
+        - Developed Rest APIs to be consumed by mobile App
       <br>
       <span class="label label-default">PHP</span>
-      <span class="label label-primary">MYSQL</span>
+      <span class="label label-primary">MySQL</span>
       <span class="label label-success">Concrete 5</span>
       
       Others
         - Worked on enhancements and bug fixes for multiple client projects.  
       <span class="label label-default">PHP</span>
-      <span class="label label-primary">MYSQL</span>
+      <span class="label label-primary">MySQL</span>
       <span class="label label-success">Concrete 5</span>
 
   - role: Junior Backend Developer
     time: Sept 2017 - Nov 2018
     company: Infipre IT Services (OPC) Pvt. Ltd., Goa
     details: |
-      Being a part of an early-stage startup I got opportunities to work in multiple roles.
+     Being a part of an early-stage startup I got opportunities to work in multiple roles.
         - Worked on backend solution for matrimony in Node JS
-        - Worked on client project in PHP,Mysql  
+        - Worked on clients project in PHP, MySQL  
         - Deploying projects to live and maintain servers.
          
         <span class="label label-default">Node JS</span>
          <span class="label label-default">PHP</span>
-         <span class="label label-primary">MYSQL</span>
+         <span class="label label-primary">MySQL</span>
          <span class="label label-primary">Express</span>
 
   - role: Internship
     time: Dec 2016 - May 2017
     company: 3D Systems Inc., Goa
     details: |
-      As a intern I worked on in-house CI/CD platform,where I developed 
+      As an intern, I worked on an in-house CI/CD platform, where I developed 
       core components. 
-        - Create backend API,s using PHP.
-        - Integrate API with UI using Angular.
+        - Create backend APIs using PHP.
+        - Integrate APIs with UI using Angular.
         - Bug fixes & code refactor
       
-      I also wrote automated test cases for 3D modelling software using python.
+      I also wrote automated test cases for 3D modeling software using python.
       <br>
       <span class="label label-default">PHP</span>
-      <span class="label label-primary">MYSQL</span>
+      <span class="label label-primary">MySQL</span>
       <span class="label label-default">Angular</span>
       <span class="label label-primary">Python</span>
       
 projects:
   title: Projects
   intro: >
-   These are various projects that I have implemented over the years. Source code can be found on my Github.
+   These are various projects that I have implemented over the years. Source code is available on my Github.
   assignments:
     - title: Startup Goa Job Bot
       link: "https://startupgoa.org/startup-goa-and-a-facebook-messenger-bot-makes-finding-job-in-the-state-a-lot-easier/"
@@ -167,23 +167,23 @@ projects:
 
     - title: Sadhguru Quotes
       link: "https://github.com/ns23/sadhguru-quotes"
-      tagline: "A Twitter scrapper to fetch all tweets by Sadhguru"
+      tagline: "A Twitter scraper to fetch all tweets by Sadhguru with  hashtag #sadhguruquotes"
 
     - title: Startup Goa Map
       link: "https://github.com/ns23/startupGoaMap"
-      tagline: "A map plotted by scrapping data from Startup Goa,which shows distribution of IT companies"
+      tagline: "A map plotted by scrapping data from Startup Goa, which shows the distribution of IT companies"
 
     - title: Swiggy-6
-      link: "#"
-      tagline: "A simple chrome extension, to notify when a six was hit in Cricket match to get 60% off on swiggy order"
+      link: "https://github.com/ns23/swiggy-6"
+      tagline: "A simple chrome extension, to notify when a six was hit in a cricket match to get 60% off on Swiggy order"
 
     - title: Goa For you
       link: "https://goaforyou.in/"
-      tagline: "A crowdsourced website to list shop open in particular area durning lockdown"
+      tagline: "A crowdsourced website to list shops that were open in a particular area during the lockdown"
 
     - title: Spotify Downloader
       link: "https://github.com/ritiek/spotify-downloader"
-      tagline: "Contributed to the project by Fixing bugs and implement features"
+      tagline: "Contributed to the OSS project by fixing bugs and implementing features"
 
 publications:
   title: Publications
@@ -212,13 +212,13 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-    - name: REST API development
+    - name: REST APIs development
       level: 85% 
     
     - name: Node JS & Javascript
       level: 76%
     
-    - name: DBMS (Postgresql / Mysql)
+    - name: DBMS (PostgreSQL / MySQL)
       level: 70%
     
     - name: PHP
@@ -228,7 +228,7 @@ skills:
       level: 36%  
     
     - name: React
-      level: 60%
+      level: 51%
 
     - name: Linux,Bash
       level: 72%
